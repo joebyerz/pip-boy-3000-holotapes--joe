@@ -8,7 +8,7 @@
 
 ### Description
 
-A Fallout-themed take on the classic Flappy Bird. Guide a cockroach through the
+A Fallout-themed take on the classic Flappy Bird. Guide a Radroach through the
 Wasteland, dodging every obstacle in its path.
 
 ### Controls
@@ -23,6 +23,11 @@ Wasteland, dodging every obstacle in its path.
 - STATS button: Open pause screen
 - Left knob scroll: Cycle through pause menu options
 - Left knob press / DATA button: Confirm selected option
+
+**Exit Game**
+
+- Page Selector (far-left knob): Exit game
+- Power Button: Soft Reboot Pip-Boy
 
 ### License(s)
 
