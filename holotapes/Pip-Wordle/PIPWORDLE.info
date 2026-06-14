@@ -1,0 +1,8 @@
+{
+    "id": "pipwordle",
+    "name": "Pip-Wordle",
+    "version": "1.0.0",
+    "files": "HOLO/WORDLE/APP.js,APPINFO/PIPWORDLE.info,HOLO/WORDLE/words_5.txt,APPINFO/HOLO.IMG",
+    "src": "HOLO/WORDLE/APP.js",
+    "icon": "APPINFO/HOLO.IMG"
+}
