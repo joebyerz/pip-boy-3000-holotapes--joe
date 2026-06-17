@@ -36,9 +36,9 @@
 * Raised path-length limit from 56 characters to 200 characters.
 * Longer filenames that were previously rejected can now be loaded and played.
 
-### Added Long Song Title Scrolling
+### Added Long Title Marquee Scrolling
 
-* Added scrolling title system for currently playing tracks.
+* Added scrolling marquee title system for currently playing tracks.
 * Includes a pause before scrolling begins.
 * Continuously scrolls while music is playing.
 * Improves readability of long song names.
